@@ -1,0 +1,230 @@
+1,1,D,Radio Shop 1,Radio Shop 1,Public Works,Atlanta City Services
+2,2,D,Radio Shop 2,Radio Shop 2,Public Works,Atlanta City Services
+19314,4b72,D,CAU Police,Clark Atlanta University Police Dispatch,Law Dispatch,Atlanta University Center
+19332,4b84,T,GWCC Security,Security Patch,Law Tac,Georgia World Congress Center
+19333,4b85,T,GWCC Police Supv,Police Supervisor Talk,Law Talk,Georgia World Congress Center
+19334,4b86,T,GWCC Police Disp,Police Dispatch  Events,Law Dispatch,Georgia World Congress Center
+19346,4b92,D,MAPS Blue,Midtown Alliance Dispatch,Security,Midtown Alliance Public Safety
+19350,4b96,D,GaTech PD,OLD Georgia Tech Police Dispatch,Law Dispatch,Georgia Institute of Technology
+19353,4b99,D,GSUPD 3 Cmd,Police 3  Command,Law Tac,Georgia State University
+19354,4b9a,D,GSUPD 2 Trfc,Police 2  Traffic,Law Tac,Georgia State University
+19355,4b9b,D,GSUPD 1 Ptrl,Police 1  Patrol,Law Dispatch,Georgia State University
+19360,4ba0,D,HFD Tac,OLD Fire Tac,Fire-Tac,Hapeville
+19361,4ba1,D,HFD Dispatch,OLD Fire Dispatch,Fire Dispatch,Hapeville
+19362,4ba2,D,HPD Tac,OLD Police Tac,Law Tac,Hapeville
+19363,4ba3,D,HPD Dispatch,OLD Police Dispatch,Law Dispatch,Hapeville
+19364,4ba4,D,HPD Unk,OLD Police Unknown Alternate,Law Tac,Hapeville
+19376,4bb0,D,EPFD Tac,Fire Tac,Fire-Tac,East Point
+19377,4bb1,D,EPFD Disp,Fire Dispatch,Fire Dispatch,East Point
+19387,4bbb,D,EPPD Tac,Police Tac,Law Tac,East Point
+19388,4bbc,D,EPPD Traffic,Police Traffic,Law Tac,East Point
+19389,4bbd,D,EPPD SWAT,Police SWAT,Law Tac,East Point
+19390,4bbe,D,EPPD Disp,Police Dispatch,Law Dispatch,East Point
+19392,4bc0,D,EPPD CID,Police CID,Law Tac,East Point
+19405,4bcd,D,CPFD Tac,OLD Fire Tac,Fire-Tac,College Park
+19406,4bce,D,CPFD Disp,OLD Fire Dispatch,Fire Dispatch,College Park
+19407,4bcf,D,CPFD Alt,OLD Fire Alternate,Fire-Talk,College Park
+19417,4bd9,D,CPPD F2,OLD Police F2,Law Tac,College Park
+19418,4bda,D,CPPD F4,OLD Police F4,Law Tac,College Park
+19419,4bdb,D,CPPD F1,OLD Police F1,Law Dispatch,College Park
+19420,4bdc,D,CPPD Surv,OLD Police Surveillance,Law Tac,College Park
+19421,4bdd,D,CPPD F3,OLD Police F3,Law Tac,College Park
+19435,4beb,D,GSP C Disp,Troop C Dispatch,Law Dispatch,Georgia State Patrol
+19436,4bec,D,GSP C Cmd,Troop C Command,Law Tac,Georgia State Patrol
+19437,4bed,D,GA Bldg Sec,State of Georgia Building Security,Law Tac,State of Georgia other than GSP
+19438,4bee,D,Mansion Sec,Governor Mansion Security,Security,State of Georgia other than GSP
+19439,4bef,D,MCCD Disp,DPS Motor Carrier Compliance Division Dispatch,Law Dispatch,State of Georgia other than GSP
+19440,4bf0,D,GSP C Tac 1,Troop C Tac 1,Law Tac,Georgia State Patrol
+19441,4bf1,D,Capitol PD,Capitol PD Dispatch,Law Dispatch,State of Georgia other than GSP
+19450,4bfa,D,Streetcar,Atlanta Streetcar,Transportation,Atlanta City Services
+19451,4bfb,D,H2O Connect,Watershed  Turn Ons,Public Works,Atlanta City Services
+19457,4c01,D,H2O Rec Fac,Watershed  Reclamation Facility,Public Works,Atlanta City Services
+19458,4c02,D,H2O Leaks,Watershed  Leaks,Public Works,Atlanta City Services
+19459,4c03,D,H2OSecurity,Watershed  Security Units,Public Works,Atlanta City Services
+19461,4c05,D,Traffic Eng,Traffic Engineering,Public Works,Atlanta City Services
+19462,4c06,D,H2O OnOff,Watershed  Turn OnOff,Public Works,Atlanta City Services
+19463,4c07,D,Streetcar Yd,Streetcar Yard Ops,Transportation,Atlanta City Services
+19475,4c13,D,H2OIntreCrk,Watershed  Entrenchment Creek CSO,Public Works,Atlanta City Services
+19477,4c15,D,H2OSewer 1,Watershed  Sewer 1,Public Works,Atlanta City Services
+19478,4c16,D,H2OSewer 2,Watershed  Sewer 2,Public Works,Atlanta City Services
+19480,4c18,D,H20Security,Watershed  Safety  Security,Public Works,Atlanta City Services
+19485,4c1d,D,H2OSewer,Watershed  Sewer,Public Works,Atlanta City Services
+19499,4c2b,D,Parks Dept,Parks Department,Public Works,Atlanta City Services
+19502,4c2e,D,Road Maint,Road Maintenance,Public Works,Atlanta City Services
+19506,4c32,D,Auto Shop,Auto Repair Shop,Public Works,Atlanta City Services
+19508,4c34,D,Sanitation,Sanitation,Public Works,Atlanta City Services
+19509,4c35,T,Sanitation,Sanitation,Public Works,Atlanta City Services
+19510,4c36,D,Lakewood,Sanitation  Lakewood,Public Works,Atlanta City Services
+19511,4c37,D,H2O Pump Sta,Watershed  Pump Station Maintenance,Public Works,Atlanta City Services
+19531,4c4b,D,Arborist,Forestry,Public Works,Atlanta City Services
+19532,4c4c,D,CityHall 1,City Hall Maintenance  Security,Public Works,Atlanta City Services
+19542,4c56,D,H2O OnOff,Watershed  Connect  Disconnect,Public Works,Atlanta City Services
+19543,4c57,D,Public Works,Atlanta Public Works,Public Works,Atlanta City Services
+19544,4c58,D,Public Works,Atlanta Public Works,Public Works,Atlanta City Services
+19547,4c5b,D,Veh Maint,Atlanta Vehicle Maintenance,Public Works,Atlanta City Services
+19548,4c5c,D,Chester Ops,Sanitation  Chester Ops,Public Works,Atlanta City Services
+19553,4c61,D,Bldg Mtce,Atlanta Building Maintenance,Public Works,Atlanta City Services
+19566,4c6e,D,ATL Events,Airport Events,Other,HartsfieldJackson Atlanta International Airport
+19567,4c6f,D,FAA Crash,FAA Tower  Crash Phone,Interop,HartsfieldJackson Atlanta International Airport
+19568,4c70,D,ATL Alt 19568,Airport Alt 19568,Other,HartsfieldJackson Atlanta International Airport
+19569,4c71,D,ATL Ops 1,Airport Operations,Transportation,HartsfieldJackson Atlanta International Airport
+19570,4c72,D,ATL Alt 19570,Airport Alt 19570,Other,HartsfieldJackson Atlanta International Airport
+19571,4c73,D,ATL Cust Svc,Airport Customer Service Alternate,Public Works,HartsfieldJackson Atlanta International Airport
+19572,4c74,D,ATL Cust Svc,Airport Customer Service,Public Works,HartsfieldJackson Atlanta International Airport
+19573,4c75,D,ATL Key Ctrl,Airport Keycard Control,Public Works,HartsfieldJackson Atlanta International Airport
+19574,4c76,D,ATL Mnt Tac,Airport Maintenance Tac,Public Works,HartsfieldJackson Atlanta International Airport
+19575,4c77,D,ATL Mnt Disp,Airport Maintenance Dispatch,Public Works,HartsfieldJackson Atlanta International Airport
+19576,4c78,D,ATL Ops 2,Airport Ops Alternate 2,Public Works,HartsfieldJackson Atlanta International Airport
+19577,4c79,D,ATL Ops 3,Airport Ops Alternate 3,Public Works,HartsfieldJackson Atlanta International Airport
+19578,4c7a,D,ATL Alt 19578,Airport Alternate 19578,Business,HartsfieldJackson Atlanta International Airport
+19589,4c85,D,BOE Bus Supv,OLD School Bus Supervisors,Schools,Atlanta Public Schools
+19590,4c86,D,BOE Bus 590,OLD School Buses,Schools,Atlanta Public Schools
+19591,4c87,D,BOE Bus 591,OLD School Buses,Schools,Atlanta Public Schools
+19592,4c88,D,BOE Bus 592,OLD School Buses,Schools,Atlanta Public Schools
+19593,4c89,D,BOE Bus 593,OLD School Buses,Schools,Atlanta Public Schools
+19594,4c8a,D,BOE Bus 594,OLD School Buses,Schools,Atlanta Public Schools
+19596,4c8c,D,BOE Supply,Schools Warehouse  Supply,Schools,Atlanta Public Schools
+19597,4c8d,D,BOE Emerg,Atlanta Schools Roll Call Emergencies,Schools,Atlanta Public Schools
+19599,4c8f,D,BOE Bus 599,OLD School Buses,Schools,Atlanta Public Schools
+19600,4c90,D,BOE Bus 600,OLD School Buses,Schools,Atlanta Public Schools
+19612,4c9c,D,ATL FD Tac 1,Airport Fire  Tac 1,Fire-Tac,HartsfieldJackson Atlanta International Airport
+19613,4c9d,D,ATL FD Med 1,Airport Fire  Medical,Fire-Tac,HartsfieldJackson Atlanta International Airport
+19614,4c9e,D,ATL FD Disp,Airport Fire  Dispatch,Fire Dispatch,HartsfieldJackson Atlanta International Airport
+19615,4c9f,D,ATL FD Emerg,Airport Fire  Emergency Trigger,Fire-Tac,HartsfieldJackson Atlanta International Airport
+19616,4ca0,D,AFD DspTrain,AFD Dispatcher Training,Fire-Tac,Atlanta Fire Department
+19617,4ca1,D,ATL FD Admin,Airport Fire  Admin also Training,Fire-Talk,HartsfieldJackson Atlanta International Airport
+19627,4cab,D,AFD Training,AFD Training,Fire-Tac,Atlanta Fire Department
+19628,4cac,D,AFD Tac 6,AFD Tac 6  Training  Secondary Fireground,Fire-Tac,Atlanta Fire Department
+19629,4cad,D,AFD Tac 5,AFD Tac 5  Fireground,Fire-Tac,Atlanta Fire Department
+19630,4cae,D,AFD Tac 4,AFD Tac 4  Fireground,Fire-Tac,Atlanta Fire Department
+19631,4caf,D,AFD Tac 3,AFD Tac 3  Fireground,Fire-Tac,Atlanta Fire Department
+19632,4cb0,D,AFD Tac 2,AFD Tac 2  Non Emergency Response,Fire-Tac,Atlanta Fire Department
+19633,4cb1,D,Grady Events,Events 19633,EMS-Tac,Grady EMS
+19634,4cb2,D,Grady Events,Events 19634,EMS-Tac,Grady EMS
+19635,4cb3,D,Grady Events,Events 19635,EMS-Tac,Grady EMS
+19636,4cb4,D,Grady Events,Events 19636,EMS-Tac,Grady EMS
+19637,4cb5,D,Grady Events,Events 19637,EMS-Tac,Grady EMS
+19647,4cbf,D,Grady Talk,Ch 4 Talk Around,EMS-Talk,Grady EMS
+19648,4cc0,D,Grady ECC,Ch 3 EMS to Hospital,Hospital,Grady EMS
+19649,4cc1,D,Grady Response,Ch 2 Response,EMS Dispatch,Grady EMS
+19650,4cc2,D,Grady Dispatch,Ch 1 Dispatch,EMS Dispatch,Grady EMS
+19653,4cc5,D,AFD Med 2,AFD Med 2  Medical Tactical,Fire-Tac,Atlanta Fire Department
+19654,4cc6,D,AFD Med 1,AFD Med 1  Medical Response,Fire-Tac,Atlanta Fire Department
+19655,4cc7,D,AFD Med 3,AFD Med 3  Medical Tactical,Fire-Tac,Atlanta Fire Department
+19656,4cc8,D,AFD Alt,AFD Alternate,Fire-Talk,Atlanta Fire Department
+19657,4cc9,D,AFD Disp,AFD Dispatch,Fire Dispatch,Atlanta Fire Department
+19660,4ccc,D,AFD Arson,AFD Arson Investigations,Fire-Tac,Atlanta Fire Department
+19661,4ccd,D,AFD Tac 7,AFD Tac 7  Admin,Fire-Tac,Atlanta Fire Department
+19662,4cce,D,AFD Talk,AFD Talkaround,Fire-Talk,Atlanta Fire Department
+19663,4ccf,D,AFD Emerg,AFD Emergency Channel,Fire-Tac,Atlanta Fire Department
+19686,4ce6,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19687,4ce7,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19688,4ce8,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19689,4ce9,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19690,4cea,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19691,4ceb,D,DetCtr Maint,Maintenance,Corrections,Atlanta City Detention Center
+19693,4ced,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19696,4cf0,D,DetCtr Prim,Primary,Corrections,Atlanta City Detention Center
+19706,4cfa,D,DetCtr Alt,Alternate,Corrections,Atlanta City Detention Center
+19710,4cfe,D,H2O,Watershed  Unknown use,Public Works,Atlanta City Services
+19711,4cff,D,H2OSewer,Watershed  Sewer,Public Works,Atlanta City Services
+19713,4d01,D,Ambassador,Downtown Ambassador Force,Multi-Tac,Atlanta City Services
+19714,4d02,D,APD ComNet,COMNET UHF patch,Interop,Atlanta Police  Field Operations Division
+19717,4d05,D,APD APEX 1,APD APEX 1 Proactive Enforcement,Law Tac,Atlanta Police  Field Operations Division
+19723,4d0b,D,City Hall 2,City Hall 2 Police Alternate,Law Tac,Atlanta Police  Field Operations Division
+19724,4d0c,D,APD Z6 Surv,Zone 6  Surveillance 1,Law Tac,Atlanta Police  Field Operations Division
+19725,4d0d,D,APD Z6 FIT,Zone 6  FIT Field Investigation Team,Law Tac,Atlanta Police  Field Operations Division
+19726,4d0e,D,APD Z6 Emerg,Zone 6  Emergency Trigger,Law Tac,Atlanta Police  Field Operations Division
+19727,4d0f,D,APD Z6 Disp,Zone 6  Dispatch,Law Dispatch,Atlanta Police  Field Operations Division
+19728,4d10,D,APD Z6 Supv,Zone 6  Supervisors,Law Talk,Atlanta Police  Field Operations Division
+19730,4d12,D,APD Z5 Supv,Zone 5  Supervisors,Law Talk,Atlanta Police  Field Operations Division
+19731,4d13,D,APD Z5 Surv2,Zone 5  Surveillance 2,Law Tac,Atlanta Police  Field Operations Division
+19732,4d14,D,APD Z5 Surv1,Zone 5  Surveillance 1,Law Tac,Atlanta Police  Field Operations Division
+19733,4d15,D,APD Z5 FIT,Zone 5  FIT Field Investigation Team,Law Tac,Atlanta Police  Field Operations Division
+19734,4d16,D,APD Z4 Emerg,Zone 4  Emergency Trigger,Law Tac,Atlanta Police  Field Operations Division
+19735,4d17,D,APD Z5 Disp,Zone 5  Dispatch,Law Dispatch,Atlanta Police  Field Operations Division
+19737,4d19,D,APD Z4 Supv,Zone 4  Supervisors,Law Talk,Atlanta Police  Field Operations Division
+19738,4d1a,D,APD Z4 Surv,Zone 4  Surveillance 1,Law Tac,Atlanta Police  Field Operations Division
+19739,4d1b,D,APD Z4 FIT,Zone 4  FIT Field Investigation Team,Law Tac,Atlanta Police  Field Operations Division
+19740,4d1c,D,APD Z5 Emerg,Zone 5  Emergency Trigger,Law Tac,Atlanta Police  Field Operations Division
+19741,4d1d,D,APD Z4 Disp,Zone 4  Dispatch,Law Dispatch,Atlanta Police  Field Operations Division
+19743,4d1f,D,APD Z3 Disp,Zone 3  Dispatch,Law Dispatch,Atlanta Police  Field Operations Division
+19744,4d20,D,APD Z3 Supv,Zone 3  Supervisors,Law Talk,Atlanta Police  Field Operations Division
+19745,4d21,D,APD Z3 Surv,Zone 3  Surveillance 1,Law Tac,Atlanta Police  Field Operations Division
+19746,4d22,D,APD Z3 FIT,Zone 3  FIT Field Investigation Team,Law Tac,Atlanta Police  Field Operations Division
+19747,4d23,D,APD Z3 Emerg,Zone 3  Emergency Trigger,Law Tac,Atlanta Police  Field Operations Division
+19749,4d25,D,APD Z2 Supv,Zone 2  Supervisors,Law Talk,Atlanta Police  Field Operations Division
+19750,4d26,D,APD Z2 Surv,Zone 2  Surveillance 1,Law Tac,Atlanta Police  Field Operations Division
+19751,4d27,D,APD Z2 FIT,Zone 2  FIT Field Investigation Team,Law Tac,Atlanta Police  Field Operations Division
+19752,4d28,D,APD Z2 Emerg,Zone 2  Emergency Trigger,Law Tac,Atlanta Police  Field Operations Division
+19753,4d29,D,APD Z2 Disp,Zone 2  Dispatch,Law Dispatch,Atlanta Police  Field Operations Division
+19755,4d2b,D,APD Z1 Supv,Zone 1  Supervisors,Law Talk,Atlanta Police  Field Operations Division
+19756,4d2c,D,APD Z1 Surv,Zone 1  Surveillance 1,Law Tac,Atlanta Police  Field Operations Division
+19757,4d2d,D,APD Z1 FIT,Zone 1  FIT Field Investigation Team,Law Tac,Atlanta Police  Field Operations Division
+19758,4d2e,D,APD Z1 Emerg,Zone 1  Emergency Trigger,Law Tac,Atlanta Police  Field Operations Division
+19759,4d2f,D,APD Z1 Disp,Zone 1  Dispatch,Law Dispatch,Atlanta Police  Field Operations Division
+19769,4d39,D,APD SOS Srv2,SOS Surveillance 2,Law Talk,Atlanta Police  Community Services Division
+19770,4d3a,D,APD EMERG,Emergency Button zoneuser,Emergency Ops,Atlanta Police  Field Operations Division
+19771,4d3b,D,APD Arena,State Farm Arena,Law Tac,Atlanta Police  Contingency Operations Division  Interop
+19773,4d3d,D,APD Fed Int,Federal Interoperability,Interop,Atlanta Police  Contingency Operations Division  Interop
+19774,4d3e,D,APD Training,Training,Law Talk,Atlanta Police  Support Services Division
+19775,4d3f,D,APD DspTrain,Dispatcher Training,Law Talk,Atlanta Police  Support Services Division
+19778,4d42,D,APD VHF Enf,VehicleforHire Enforcement,Law Tac,Atlanta Police  Criminal Investigations Division
+19779,4d43,D,APD Tac 2,TAC 2 Citywide,Law Tac,Atlanta Police  Field Operations Division
+19780,4d44,D,APD Tac 1,TAC 1 Patrol Units to Detective Talkaround,Law Tac,Atlanta Police  Field Operations Division
+19781,4d45,DE,APD SWAT,APD SWAT Team,Law Tac,Atlanta Police  Community Services Division
+19782,4d46,D,APD Stadium In,Mercedes Benz Stadium Inside former Turner Field channel,Law Tac,Atlanta Police  Contingency Operations Division  Interop
+19783,4d47,D,APD Events 2,Special Events 2,Law Tac,Atlanta Police  Contingency Operations Division  Interop
+19784,4d48,D,APD Events 1,Special Events 1 GaTech Football Games Stadium Ops,Law Tac,Atlanta Police  Contingency Operations Division  Interop
+19785,4d49,D,APD SOS Sup,SOS Supervisor,Law Tac,Atlanta Police  Community Services Division
+19786,4d4a,D,APD SOS Disp,SOS Dispatch Detective Patch,Law Talk,Atlanta Police  Community Services Division
+19787,4d4b,D,APD SOS Srv1,SOS Surveillance 1,Law Tac,Atlanta Police  Community Services Division
+19795,4d53,D,MA SWAT 3,Mutual Aid  SWAT 3,Law Tac,Atlanta Police  Community Services Division
+19798,4d56,D,APD RD Supv,Red Dog Supervisor Unit Dissolved,Law Tac,Atlanta Police  Criminal Investigations Division
+19799,4d57,D,APD APEX,Atlanta Proactive Enforcement Interdiction,Law Tac,Atlanta Police  Field Operations Division
+19800,4d58,D,APD Surv Unk,Unknown Unit Surveillance,Law Talk,Atlanta Police  Criminal Investigations Division
+19801,4d59,D,OTG7,OTG 7  Events,Interop,Atlanta City Services
+19802,4d5a,D,OTG6,OTG 6  Events,Interop,Atlanta City Services
+19803,4d5b,D,OTG5,OTG 5  Events,Interop,Atlanta City Services
+19804,4d5c,D,OTG4,OTG 4  Events,Interop,Atlanta City Services
+19805,4d5d,D,OTG3,OTG 3  Events,Interop,Atlanta City Services
+19806,4d5e,D,OTG2,OTG 2  Events,Interop,Atlanta City Services
+19807,4d5f,D,OTG1,OTG 1  Events,Interop,Atlanta City Services
+19808,4d60,D,MA SWAT 2,Mutual Aid  SWAT 2,Interop,Atlanta Police  Community Services Division
+19809,4d61,D,MA SWAT 1,Mutual Aid  SWAT 1,Interop,Atlanta Police  Community Services Division
+19810,4d62,D,APD MutAid 4,Mutual Aid 4 GaTech Football Games Traffic,Interop,Atlanta Police  Contingency Operations Division  Interop
+19811,4d63,D,APD MutAid 3,Mutual Aid 3,Interop,Atlanta Police  Contingency Operations Division  Interop
+19812,4d64,D,APD MutAid 2,Mutual Aid 2,Interop,Atlanta Police  Contingency Operations Division  Interop
+19813,4d65,D,APD MutAid 1,Mutual Aid 1,Interop,Atlanta Police  Contingency Operations Division  Interop
+19824,4d70,D,APD WeedSeed,Narcotics Weed and Seeds Units,Law Tac,Atlanta Police  Criminal Investigations Division
+19828,4d74,DE,APD NSurv 1,Narcotics Surveillance 1,Law Tac,Atlanta Police  Criminal Investigations Division
+19831,4d77,D,APD ID Unit,Identification Unit,Law Tac,Atlanta Police  Support Services Division
+19832,4d78,DE,APD Hostage,Hostage Surveillance,Law Tac,Atlanta Police  Community Services Division
+19833,4d79,DE,APD Homicide,Homicide  Missing Persons,Law Tac,Atlanta Police  Criminal Investigations Division
+19835,4d7b,D,APD GangSurv,Gang Unit,Law Tac,Atlanta Police  Criminal Investigations Division
+19836,4d7c,D,APD Stadium Out,Mercedes Benz Stadium  OutsideTraffic former Georgia Dome channel,Law Tac,Atlanta Police  Contingency Operations Division  Interop
+19837,4d7d,D,APD Fug Surv,Fugitive Unit,Law Tac,Atlanta Police  Criminal Investigations Division
+19842,4d82,De,APD Executive,Executive Protection Unit Mayor,Law Tac,Atlanta Police  Criminal Investigations Division
+19843,4d83,D,APD Comm,Communications Unit,Law Tac,Atlanta Police  Field Operations Division
+19846,4d86,D,APD HERO,APD Link to HERO Highway Emergency Response Operator,Law Tac,Atlanta Police  Field Operations Division
+19847,4d87,D,APD Detect,Detective Radio CID Dispatch,Law Tac,Atlanta Police  Criminal Investigations Division
+19848,4d88,D,APD Detec Emerg,Detective Radio  Emergency Trigger,Law Tac,Atlanta Police  Criminal Investigations Division
+19849,4d89,D,APD Courts,Atlanta Municipal Court Security,Law Tac,Atlanta Police  Field Operations Division
+19851,4d8b,D,APD CID Surv,CID Surveillance,Law Tac,Atlanta Police  Criminal Investigations Division
+19854,4d8e,D,APD CID Supv,CID Supervisor,Law Talk,Atlanta Police  Criminal Investigations Division
+19856,4d90,D,APD AutoThft,Auto Theft Task Force,Law Tac,Atlanta Police  Community Services Division
+19857,4d91,D,APD FacMaint,Facility Maintenance,Law Talk,Atlanta Police  Support Services Division
+19858,4d92,D,APD Property,Property Unit,Law Talk,Atlanta Police  Support Services Division
+19871,4d9f,D,ATL PD Surv,Airport Police  Surveillance,Law Tac,HartsfieldJackson Atlanta International Airport
+19873,4da1,D,ATL PD K9,Airport Police  K9,Law Tac,HartsfieldJackson Atlanta International Airport
+19874,4da2,D,ATL PD Invst,Airport Police  Investigations,Law Tac,HartsfieldJackson Atlanta International Airport
+19875,4da3,D,ATL PD Disp,Airport Police  Dispatch,Law Dispatch,HartsfieldJackson Atlanta International Airport
+19876,4da4,D,ATL PD Emerg,Airport Police  Emergency Trigger,Law Tac,HartsfieldJackson Atlanta International Airport
+19890,4db2,DE,APD Vice,Vice Surveillance,Law Tac,Atlanta Police  Criminal Investigations Division
+19891,4db3,D,APD 7700 Units,Unknown division 7700 units,Law Tac,Atlanta Police  Field Operations Division
+19892,4db4,D,APD Homeland,Homeland Security Unit,Law Talk,Atlanta Police  Contingency Operations Division  Interop
+19893,4db5,D,APD SVU,Special Victims Unit sex crimes,Law Tac,Atlanta Police  Criminal Investigations Division
+19894,4db6,D,School Police,School Police,Law Tac,Atlanta Public Schools
+19898,4dba,D,APD ACIC 3,ACIC 3,Law Tac,Atlanta Police  Field Operations Division
+19899,4dbb,D,APD ACIC 2,ACIC 2,Law Tac,Atlanta Police  Field Operations Division
+19900,4dbc,D,APD ACIC 1,ACIC 1,Law Tac,Atlanta Police  Field Operations Division
