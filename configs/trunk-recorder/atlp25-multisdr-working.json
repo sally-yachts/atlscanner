@@ -1,0 +1,40 @@
+{
+    "sources": [{
+        "center": 851962500,
+        "rate": 1900000,
+	"gain": 32,
+        "debugRecorders": 0,
+        "digitalRecorders": 5,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "rtl=3"
+    },{
+        "center": 855087500,
+        "rate": 1000000,
+	"gain": 32,
+        "debugRecorders": 0,
+        "digitalRecorders": 11,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "rtl=2"
+    },{
+        "center": 857125000,
+        "rate": 1900000,
+	"gain": 32,
+        "debugRecorders": 0,
+        "digitalRecorders": 5,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "rtl=1"
+}],
+    "systems": [{
+        "control_channels": [857787500, 857462500, 857487500, 857887500],
+        "type": "p25",
+                                "shortName": "atlp25",
+        "talkgroupsFile": "atlp25-tg.csv",
+	"unitTagsFile": "atlp25-ut.csv",
+	"logFile": "tr-console.log",
+        "defaultMode": "digital",
+	"uploadScript": "upload-call.sh 1"
+    }]
+}
