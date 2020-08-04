@@ -1,0 +1,23 @@
+{
+    "sources": [{
+        "center": 854750000,
+        "rate": 8000000,
+	"agc": true,
+        "debugRecorders": 0,
+        "digitalRecorders": 21,
+        "modulation": "qpsk",
+        "driver": "osmosdr",
+        "device": "driver=lime,soapy=1",
+	"antenna": "LNAW"
+}],
+    "systems": [{
+        "control_channels": [857787500, 857462500, 857487500, 857887500],
+        "type": "p25",
+                                "shortName": "atlp25",
+        "talkgroupsFile": "atlp25-tg.csv",
+	"unitTagsFile": "atlp25-ut.csv",
+	"logFile": "tr-console.log",
+        "defaultMode": "digital",
+	"uploadScript": "upload-call.sh 1"
+    }]
+}
