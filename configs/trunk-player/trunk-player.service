@@ -1,0 +1,14 @@
+[Unit]
+Description=trunk-player worker and web endpoint
+After=network.target
+Wants=nginx.service
+
+[Service]
+ExecStart=/path/to/trunk-player/utility/trunk-player/start_web.sh
+ExecStop=/path/to/trunk-player/utility/trunk-player/stop_web.sh
+User=usergoeshere
+Group=groupgoeshere
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
